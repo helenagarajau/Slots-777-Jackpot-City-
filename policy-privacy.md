@@ -35,7 +35,7 @@ We use the collected information for the following purposes:
    We analyze data to ensure the smooth functioning of our games, identify bugs or errors, and enhance user experience.
 
 2. **To Analyze Performance and Trends**  
-   Usage data helps us understand overall player behavior, allowing us to optimize gameplay, design, and future updates.
+   Usage data helps us understand player behavior, allowing us to optimize gameplay, design, and future updates.
 
 3. **To Deliver Targeted Advertisements** (where applicable)  
    We may use advertising identifiers to display relevant ads within our games. These ads may be personalized based on your device or usage data, but we do not share personally identifiable information with advertisers.
@@ -74,8 +74,11 @@ We take reasonable measures to safeguard your information from unauthorized acce
 
 ## 7. Age Restrictions / Children’s Privacy
 
-1. **Intended Audience**: Our games are intended for an **adult audience** and may be rated accordingly on the Google Play Store (e.g., 16+ or 18+).  
-2. **Children Under 13**: We do **not** knowingly collect personal information from children under 13. If you believe your child has provided personal information to us, please contact us immediately at [helenagarajau@gmail.com](mailto:helenagarajau@gmail.com) so we can take appropriate action.
+1. **Intended Audience**  
+   Our games are intended for users **aged 18 or older**. We do not permit usage by individuals under the age of 18.
+
+2. **Children Under 18**  
+   We do **not** knowingly collect personal information from children under 18. If you believe someone under 18 has accessed our game or provided personal information, please contact us immediately at [helenagarajau@gmail.com](mailto:helenagarajau@gmail.com) so we can take appropriate action.
 
 ---
 
