@@ -92,3 +92,9 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 - **Email**: [helenagarajau@gmail.com](mailto:helenagarajau@gmail.com)
 
 ---
+
+## 10. Additional Information
+
+- This Privacy Policy is provided for publication on the Google Play Store for “Mega Jackpot Entertainment” games.
+- We follow guidelines related to the collection and usage of user data, including Google Play policies.
+- If any user information is collected (e.g., via customer support), it will be used only for improving gameplay or for serving advertisements, in compliance with this Privacy Policy.
