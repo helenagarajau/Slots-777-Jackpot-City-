@@ -2,66 +2,93 @@
 
 **Last Updated:** [Date]
 
-**1. Introduction**
+## 1. Introduction
 
-Welcome to Mega Jackpot Entertainment! We are committed to protecting your privacy and ensuring a safe gaming experience. This Privacy Policy outlines how we collect, use, and protect your information when you play our games.
+Welcome to **Mega Jackpot Entertainment** (“we,” “our,” or “us”). We are committed to protecting your privacy and ensuring a safe gaming experience. This Privacy Policy outlines how we collect, use, and protect your information when you play our games.
 
-**2. Information We Collect**
+This Privacy Policy applies to all “Mega Jackpot Entertainment” games published on the Google Play Store, including any associated services, websites, or other features that link to this Policy.
+
+---
+
+## 2. Information We Collect
 
 We may collect the following types of information:
 
-* **Non-Personal Information:**
-    * Device information (e.g., device type, operating system)
-    * Game progress and statistics
-    * Advertising identifiers
-    * Usage data (e.g., game interactions, session duration)
-* **Personal Information:** We do not intentionally collect any personally identifiable information (PII) such as your name, address, or email unless you voluntarily provide it to us (e.g., when contacting customer support).
+### 2.1 Non-Personal Information
 
-**3. How We Use Your Information**
+- **Device Information**: Such as device type, operating system, and device identifiers.  
+- **Game Progress and Statistics**: Level progress, in-game actions, achievements, or scores.  
+- **Advertising Identifiers**: Such as Google Advertising ID (GAID) for the purpose of delivering relevant ads.  
+- **Usage Data**: Information on how you interact with our games (e.g., session duration, in-game clicks, pages visited).
+
+### 2.2 Personal Information
+
+We do **not** intentionally collect any personally identifiable information (PII) such as your name, address, or email unless you voluntarily provide it to us (e.g., when contacting customer support or participating in surveys). If you do provide such information, we will use it solely for the purposes stated at the time of collection.
+
+---
+
+## 3. How We Use Your Information
 
 We use the collected information for the following purposes:
 
-* To provide and improve our games
-* To analyze game performance and trends
-* To deliver targeted advertisements (where applicable)
-* To provide customer support
+1. **To Provide and Improve Our Games**  
+   We analyze data to ensure the smooth functioning of our games, identify bugs or errors, and enhance user experience.
 
-**4. Third-Party Services**
+2. **To Analyze Performance and Trends**  
+   Usage data helps us understand overall player behavior, allowing us to optimize gameplay, design, and future updates.
 
-We may use third-party services, such as:
+3. **To Deliver Targeted Advertisements** (where applicable)  
+   We may use advertising identifiers to display relevant ads within our games. These ads may be personalized based on your device or usage data, but we do not share personally identifiable information with advertisers.
 
-* Advertising networks: To display advertisements within our games.
-* Analytics providers: To analyze game usage and performance.
+4. **To Provide Customer Support**  
+   If you contact us via email or other means, we may use the information you provide to respond to your questions or concerns.
 
-These third-party services may have their own privacy policies, and we encourage you to review them.
+---
 
-**5. Data Security**
+## 4. Third-Party Services
 
-We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is 100% secure.
+We may use third-party services to assist us in analyzing performance, displaying advertisements, or providing additional features. Examples include:
 
-**6. Children's Privacy**
+- **Advertising Networks**: To display ads within our games.  
+- **Analytics Providers**: To understand how users interact with our games and track performance metrics.
 
-Our games are intended for a general audience and are not directed towards children under the age of 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information, please contact us.
+These third parties may collect information in accordance with their own privacy policies. We encourage you to review those policies to understand how they handle your data.
 
-**7. Changes to This Privacy Policy**
+---
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+## 5. Simulated Gambling Disclaimer
 
-**8. Contact Us**
+Our games may feature **simulated casino or gambling-style gameplay**, including slots and other casino-like mechanics. Please note:
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+- **No Real Money**: Our games **do not** offer any real-money gambling or opportunities to win real cash or prizes.  
+- **No Cash-Out Functionality**: Virtual currency or items used or won in the game **cannot** be exchanged or redeemed for real money, goods, or services.  
+- **Entertainment Purposes Only**: The simulated gambling aspects of our games are for entertainment purposes and are strictly not intended to encourage real-money gambling.
 
-* Email: helenagarajau@gmail.com
+---
 
-**9. Additional Information**
+## 6. Data Security
 
-* This privacy policy is made to allow "Mega Jackpot Entertainment" games to be published on the Google PlayStore.
-* This policy follows guidelines related to the collection of user data, and how that data is used.
-* If any user information is collected, then we will use this info to inprove gameplay, or for advertising.
+We take reasonable measures to safeguard your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is completely secure. While we strive to protect your data, we cannot guarantee its absolute security.
 
-**Please Note:**
+---
 
-* This is a sample privacy policy and may need to be modified to meet the specific requirements of your game and applicable laws.
-* It is very important that you review the Google Play Store's developer requirements for privacy.
+## 7. Age Restrictions / Children’s Privacy
 
-**Disclaimer:** I am an AI and cannot provide legal advice. It is recommended you seek legal counsel to ensure that your privacy policy follows all legal guidelines.
+1. **Intended Audience**: Our games are intended for an **adult audience** and may be rated accordingly on the Google Play Store (e.g., 16+ or 18+).  
+2. **Children Under 13**: We do **not** knowingly collect personal information from children under 13. If you believe your child has provided personal information to us, please contact us immediately at [helenagarajau@gmail.com](mailto:helenagarajau@gmail.com) so we can take appropriate action.
+
+---
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When we do, we will post the revised version on this page and update the “Last Updated” date at the top. We encourage you to review this Privacy Policy periodically to stay informed about how we protect your information.
+
+---
+
+## 9. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, feel free to reach out to us:
+
+- **Email**: [helenagarajau@gmail.com](mailto:helenagarajau@gmail.com)
+
+---
